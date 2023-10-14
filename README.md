@@ -7,7 +7,7 @@
   Únete a mi viaje y descubramos juntas el emocionante universo tech. 🌟👩‍💻✨
 </p>
 <p align="center">
-  ꘎♡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━♡꘎
+  · • —–––––– ٠ ✤ ٠ —–––––– • ·
 </p>
 <table width="100%" style="border-collapse: collapse; border: none;" align="center">
   <tr>
