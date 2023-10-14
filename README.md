@@ -2,13 +2,14 @@
 
 <p align="center">
   ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar nuestra rutina diaria. A mis 18 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
-
-  Únete a mi viaje y descubramos juntas el emocionante universo tech. 🌟👩‍💻✨
-
-  ꘎♡━━━━━━━━━━━━━━━♡꘎
 </p>
-
-<table width="100%" style="border-collapse: collapse; border: none;">
+<p align="center">
+  Únete a mi viaje y descubramos juntas el emocionante universo tech. 🌟👩‍💻✨
+</p>
+<p align="center">
+  ꘎♡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━♡꘎
+</p>
+<table width="100%" style="border-collapse: collapse; border: none;" align="center">
   <tr>
     <td align="left">ʟᴀɴɢᴜᴀɢᴇꜱ 👩‍💻</td>
     <td align="right">ʀᴇᴀᴄʜ ᴍᴇ ᴏᴜᴛ ᴏɴ 📱 </td>
