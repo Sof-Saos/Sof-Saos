@@ -25,10 +25,10 @@
     </td>
     <td align="right">
       <a href="mailto:sofisalamanca93@gmail.com">
-        <img src="https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofisalamanca93@gmail.com"/>
+        <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sofisalamanca93@gmail.com"/>
       </a>
       <a href="https://www.linkedin.com/in/ritik-rawal-698a18142/">
-        <img src="https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofi-salamanca/"/>
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofi-salamanca/"/>
       </a>
     </td>
   </tr>
