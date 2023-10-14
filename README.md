@@ -15,11 +15,11 @@
     <td align="right">ʀᴇᴀᴄʜ ᴍᴇ ᴏᴜᴛ ᴏɴ 📱 </td>
   </tr>
   <tr>
-    <td align="left">
+    <td align="center">
       <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
       <img src="https://img.shields.io/badge/haskell-%23662495.svg?style=for-the-badge&logo=haskell&logoColor=white" />
       <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/mongodb-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <br>
       <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
     </td>
