@@ -38,13 +38,10 @@
 ### ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
 
-<h3 align="left">
- ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h3>
-
+<h3 align="left"> ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊 </h3>
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=ritik307&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-Saos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sof-Saos&show_icons=true&theme=radical&line_height=27&hide=prs,issues,contribs" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-Saos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
