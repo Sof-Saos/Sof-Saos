@@ -37,7 +37,8 @@
   </tr>
 </table>
 
-<!-- Spotify now playing -->
+[![Visitor Badge](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&lcolor=f48b94&color=000000&style=flat&logo=Github&hit=false)](https://github.com/Sof-Saos)
+<!-- Spotify now playing #f48b94 -->
 ### ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
 
