@@ -44,7 +44,6 @@
 
 <h3 align="left"> ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊 </h3>
 <br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sof-Saos&show_icons=true&theme=radical&line_height=27" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-Saos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
