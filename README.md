@@ -3,6 +3,8 @@
 <p align="center">
   ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. A mis 18 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
 </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sof-Saos&label=Profile%20views&color=0e75b6&style=flat" alt="Sof-Saos" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sof-Saos" alt="Sof-Saos" /></a> </p> --> 
 <p align="center">
   Únete a mi viaje y descubramos junticos el emocionante universo tech. 🌟👩‍💻✨
 </p>
@@ -40,7 +42,19 @@
 [![Visitor Badge](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&lcolor=f48b94&color=000000&style=flat&logo=Github&hit=false)](https://github.com/Sof-Saos)
 <!-- Spotify now playing #f48b94 -->
 ### ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Player" align="left" width="50%" />
+  <div align="left" style="margin-left: 20px;">
+
+  - 🔭 Actualmente me encuentro realizando mis estudios en [Bootcamp Makaia](https://makaia.org/bootcamp-makaia/)
+  - 🌱 Actualmente me encuentro aprendiendo **Spring Boot, Java frameworks, Python y ciberseguridad**
+  - 👨‍💻 Todos mis proyectos los puedes encontrar en [https://github.com/Sof-Saos?tab=repositories](https://github.com/Sof-Saos?tab=repositories)
+  - 📄 Conóceme un poco más [https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0](https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0)
+  - ⚡ Fun fact **I love coriander**
+
+  </div>
+</div>
+
 
 <h3 align="left"> ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊 </h3>
 <br>
