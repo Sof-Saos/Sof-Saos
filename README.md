@@ -3,8 +3,6 @@
 <p align="center">
   ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. A mis 18 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
 </p>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sof-Saos&label=Profile%20views&color=0e75b6&style=flat" alt="Sof-Saos" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sof-Saos" alt="Sof-Saos" /></a> </p> --> 
 <p align="center">
   Únete a mi viaje y descubramos junticos el emocionante universo tech. 🌟👩‍💻✨
 </p>
@@ -39,26 +37,27 @@
   </tr>
 </table>
 
-[![Visitor Badge](https://vbr.wocr.tk/badge?page_id=visitor-badge-reloaded-visitors&lcolor=f48b94&color=000000&style=flat&logo=Github&hit=false)](https://github.com/Sof-Saos)
-<!-- Spotify now playing #f48b94 -->
-### ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧
+<h3>ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧</h3>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Player" align="left" width="50%" />
-  <div align="left" style="margin-left: 20px;">
-
-  - 🔭 Actualmente me encuentro realizando mis estudios en [Bootcamp Makaia](https://makaia.org/bootcamp-makaia/)
-  - 🌱 Actualmente me encuentro aprendiendo **Spring Boot, Java frameworks, Python y ciberseguridad**
-  - 👨‍💻 Todos mis proyectos los puedes encontrar en [https://github.com/Sof-Saos?tab=repositories](https://github.com/Sof-Saos?tab=repositories)
-  - 📄 Conóceme un poco más [https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0](https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0)
-  - ⚡ Fun fact **I love coriander**
-
+  <div>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Player" align="left" width="50%" /> 
+  </div>
+    <div align="left" style="margin-left: 20px;">
+    <h3>ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ 👩🏾‍💻</h3>
+    <ul style="list-style-type: square;">
+      <li>🔭 Actualmente, me encuentro inmerso en mi formación en <a href="https://makaia.org/bootcamp-makaia/">Bootcamp Makaia</a>, donde desarrollo habilidades clave para mi trayectoria profesional.</li>
+      <li>🌱 Asimismo, estoy profundizando mis conocimientos en <strong>Spring Boot, Java frameworks, Python y ciberseguridad</strong>, pero me encanta aprender, así que siempre estoy explorando nuevas perspectivas en el ámbito tecnológico.</li>
+      <li>👨‍💻 Todos mis proyectos los puedes encontrar en <a href="https://github.com/Sof-Saos?tab=repositories">mi perfil de GitHub</a>.</li>
+      <li>📄 Conóceme un poco más <a href="https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0">haciendo clic aquí</a>.</li>
+      <li>⚡ Fun fact: <strong>Amo el cilantro y en el futuro quiero ser una Barbie Tech </strong>. Porque como Barbie, quisiera aprender y saber de todo.</li>
+      <br> 
+    </ul>
   </div>
 </div>
 
-
-<h3 align="left"> ᴍʏ ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ 📊 </h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sof-Saos&show_icons=true&theme=radical&line_height=27" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sof-Saos&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  · • —–––––– ٠ ✤ ٠ —–––––– • ·
 </p>
+<br>
+
