@@ -1,5 +1,9 @@
 ![Portada Github](img/gif2.gif)
 ![line](https://github.com/Sof-Saos/Sof-Saos/assets/74073693/c359f50b-4f6d-4001-ae04-c29f94260a90)
+<!-- <p align="center">
+  <img src="img/divider2.gif" alt="Divisor" width="360">
+</p> -->
+
 <p align="center">
   ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. A mis 18 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
 </p>
@@ -59,5 +63,25 @@
 <p align="center">
   · • —–––––– ٠ ✤ ٠ —–––––– • ·
 </p>
+
+<p align="center">
+  <img src="img/music.gif" alt="Music note" width="180">
+</p>
 <br>
+
+<h2 align="center"> ♡︎ 𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙖𝙧 𝙢𝙞 𝙥𝙚𝙧𝙛𝙞𝙡 ♡︎ </h2> 
+<table style="border: 1px solid transparent;" align="center">
+  <tr>
+    <td>
+      <p align="left">
+        Toma, una florecita para ti <3
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="img/giphy.gif" alt="goodbye" width="160">
+      </p>
+    </td>
+  </tr>
+</table>
 
