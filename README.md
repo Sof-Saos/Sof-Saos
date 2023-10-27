@@ -75,6 +75,9 @@
     <td>
       <p align="left">
         Toma, una florecita para ti <3
+        <br>
+        <br>
+        <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSof-Saos"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSof-Saos&label=Visitors&labelColor=%23f8d79b&countColor=%2394a25b&style=flat-square&labelStyle=upper" /></a>
       </p>
     </td>
     <td>
