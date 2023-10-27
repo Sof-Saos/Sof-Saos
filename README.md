@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="img/music.gif" alt="Music note" width="180">
+  <img src="img/music.gif" alt="Music note" width="130">
 </p>
 <br>
 
