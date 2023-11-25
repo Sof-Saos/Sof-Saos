@@ -49,7 +49,7 @@
     <div align="left" style="margin-left: 20px;">
     <h3>ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ 👩🏾‍💻</h3>
     <ul style="list-style-type: square;">
-      <li>🔭 Actualmente, me encuentro inmerso en mi formación en <a href="https://makaia.org/bootcamp-makaia/">Bootcamp Makaia</a>, donde desarrollo habilidades clave para mi trayectoria profesional.</li>
+      <li>🔭 Actualmente, me encuentro en busca de empleo, como Backend Developer </li>
       <li>🌱 Asimismo, estoy profundizando mis conocimientos en <strong>Spring Boot, Java frameworks, Python y ciberseguridad</strong>, pero me encanta aprender, así que siempre estoy explorando nuevas perspectivas en el ámbito tecnológico.</li>
       <li>👨‍💻 Todos mis proyectos los puedes encontrar en <a href="https://github.com/Sof-Saos?tab=repositories">mi perfil de GitHub</a>.</li>
       <li>📄 Conóceme un poco más <a href="https://www.dropbox.com/scl/fi/hyyb62l29bg96talbqglf/Curriculum-Sof-a-Salamanca.pdf?rlkey=fbgmrwctkcx6wyhwu0wuu1shc&dl=0">haciendo clic aquí</a>.</li>
