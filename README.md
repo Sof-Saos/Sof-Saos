@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. A mis 18 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
+  ¡Hola! Soy Sofi, una entusiasta de la programación y la tecnología que cree firmemente en su capacidad para transformar la rutina diaria. A mis 19 años, me considero una exploradora tech, siempre en busca de nuevos desafíos y obsesionada con aprender algo nuevo cada día. 💡💻 Cuando no me encuentro inmersa en líneas de código, me dedico a empoderar a chicas en el mundo tech y a derribar cualquier barrera que se cruce en mi camino.
 </p>
 <p align="center">
   Únete a mi viaje y descubramos junticos el emocionante universo tech. 🌟👩‍💻✨
