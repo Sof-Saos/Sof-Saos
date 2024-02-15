@@ -44,7 +44,7 @@
 <h3>ʟᴇᴛ'ꜱ ʟɪꜱᴛᴇɴ ᴛᴏ ᴍᴜꜱɪᴄ 🎧</h3>
 <div align="center">
   <div>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Player" align="left" width="50%" /> 
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=21w6adtehdmomfqwhets3a6cy&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" alt="Spotify Player" align="left" width="50%" />  
   </div>
     <div align="left" style="margin-left: 20px;">
     <h3>ᴀ ʟɪᴛᴛʟᴇ ᴍᴏʀᴇ ᴀʙᴏᴜᴛ ᴍᴇ 👩🏾‍💻</h3>
@@ -88,3 +88,5 @@
   </tr>
 </table>
 
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31dnrf5x2io7jscwij77xtwdgya4&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)  
