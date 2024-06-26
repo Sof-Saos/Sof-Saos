@@ -66,13 +66,11 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hFD31CQsYWiDf5Xm3W/giphy.gif" width="130">
-  <p>
-    <a href="https://giphy.com/stickers/foeanddear-happy-halloween-ghost-hFD31CQsYWiDf5Xm3W"> 
-    </a>
-  </p>
+  <img src="https://media.giphy.com/media/9FQPUHSOoriwsUtuSX/giphy.gif" width="130" height="130">
 </p>
 <br>
+
+<!-- <iframe src="https://giphy.com/embed/9FQPUHSOoriwsUtuSX" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/animation-bear-walkanimation-9FQPUHSOoriwsUtuSX">via GIPHY</a></p> -->
 
 <h2 align="center"> ♡︎ 𝙂𝙧𝙖𝙘𝙞𝙖𝙨 𝙥𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙖𝙧 𝙢𝙞 𝙥𝙚𝙧𝙛𝙞𝙡 ♡︎ </h2> 
 <table style="border: 1px solid transparent;" align="center">
